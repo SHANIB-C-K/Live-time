@@ -17,8 +17,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 50%;
-    border: 1px solid green;
+    border-radius: 10px;
+    box-shadow: 0 0 15px red;
+    padding: 0 10px 0 10px;
 }
 
 #time:hover {
